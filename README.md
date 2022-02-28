@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
-<p align="left"> <a href="https://twitter.com/himanshustwt" target="blank"><a href="https://www.linkedin.com/in/himanshumalviya1512/" target="blank"><img src="https://img.shields.io/twitter/follow/himanshustwt?logo=twitter&style=for-the-badge" alt="himanshustwt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/himanshustwt" target="blank">
+<p align="left"><a href="https://www.linkedin.com/in/himanshumalviya1512/" target="blank"><img src="https://img.shields.io/twitter/follow/himanshustwt?logo=twitter&style=for-the-badge" alt="himanshustwt" /></a> </p>
 
 - 🌱 I’m currently learning **Web Developement**
 
