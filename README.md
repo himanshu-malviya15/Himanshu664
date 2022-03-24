@@ -4,7 +4,7 @@
 
 <p align="left"><img src="https://img.shields.io/twitter/follow/himanshustwt?logo=twitter&style=for-the-badge" alt="himanshustwt" /></a> </p>
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **JavaScript, and React**
 
