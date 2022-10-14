@@ -3,6 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 <p align="left"><img src="https://img.shields.io/twitter/follow/himanshustwt?logo=twitter&style=for-the-badge" alt="himanshustwt" /></a> </p>
+I'm a Fullstack Software Developer currently employed at Ever Co. LTD
+
 
 - 🌱 I’m currently learning **Web Development**
 
